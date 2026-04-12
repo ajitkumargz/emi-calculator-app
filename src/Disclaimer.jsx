@@ -6,9 +6,6 @@ function Disclaimer(){
                     <p style={{color:"#000", textAlign:"justify"}}>This <b> Personal Loan EMI Calculator</b> helps you estimate your monthly loan repayment with ease. Refine your loan amount and tenure inputs to gain full control of your financial planning before applying.</p>
                 </div>
             </div>
-            <div id="developer-info" style={{width:"100%", paddingLeft:"20px"}}>
-                <span>Developed by: <b>Cloud & Code Lab by Ajit Kumar</b></span>
-            </div>
         </div>
     )
 }
